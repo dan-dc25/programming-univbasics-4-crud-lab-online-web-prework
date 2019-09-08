@@ -17,13 +17,11 @@ expressions.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
-brothers_lovers = ["Monique", "Michele", "arrays!"]
-arr = brothers_lovers.pop
+
 end
 
 def remove_element_from_start_of_array(array)
-here = ["wow", "now"]
-when = here.shift
+
 end
 
 def retrieve_element_from_index(array, index_number)
