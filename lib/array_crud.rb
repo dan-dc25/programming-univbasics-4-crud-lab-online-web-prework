@@ -22,21 +22,26 @@ arr = brothers_lovers.pop
 end
 
 def remove_element_from_start_of_array(array)
-
+here = ["wow", "now"]
+when = here.shift
 end
 
 def retrieve_element_from_index(array, index_number)
-
+message = ["Here", "I", "am"]
+message[2]
 end
 
 def retrieve_first_element_from_array(array)
-
+lunch = ["sandwich", "leftovers"]
+lunch[0]
 end
 
 def retrieve_last_element_from_array(array)
-
+dinner = ["steak", "chicken", "pork"]
+dinner[-1]
 end
 
 def update_element_from_index(array, index_number, element)
-
+favorite_movie = ["Lion king", ]
+favorite_movie[0] = "Harry Potter"
 end
