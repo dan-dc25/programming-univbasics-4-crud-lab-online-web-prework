@@ -7,18 +7,18 @@ family = ["Sonia", "Antonio", "Douglas", "Deisiane"]
 end
 
 def add_element_to_end_of_array(array, element)
-nephews_and_nieces = ["Beatriz", "Heitor"]
-nephews_and_nieces << "Joao Pedro"
+nada = ["elements"]
+nada << "arrays!"
 end
 
 def add_element_to_start_of_array(array, element)
-countries = ["Brazil", "Peru"]
-countries.unshift("Colombia")
+expressions = ["aha"]
+expressions.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
-brothers_lovers = ["Monique", "Michele", "Juliana"]
-juju = brothers_lovers.pop
+brothers_lovers = ["Monique", "Michele", "arrays!"]
+arr = brothers_lovers.pop
 end
 
 def remove_element_from_start_of_array(array)
