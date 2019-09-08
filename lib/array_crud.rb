@@ -42,6 +42,5 @@ dinner[-1]
 end
 
 def update_element_from_index(array, index_number, element)
-favorite_movie = ["Lion king", ]
-favorite_movie[0] = "Harry Potter"
+
 end
